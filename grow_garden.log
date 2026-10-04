@@ -1,0 +1,71 @@
+2026-10-03 21:21:32,544 | INFO | Offset بارگذاری شد: None
+2026-10-03 21:21:32,571 | INFO | دیتابیس آماده شد.
+2026-10-03 21:21:32,571 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-03 21:21:32,795 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac0f7ff5878460e3844e8f2
+2026-10-03 21:24:08,312 | INFO | Offset بارگذاری شد: 6ac141368c3a2f2d75309216
+2026-10-03 21:24:08,314 | INFO | دیتابیس آماده شد.
+2026-10-03 21:24:08,314 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-03 21:24:08,491 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac141368c3a2f2d75309216
+2026-10-03 21:33:53,689 | INFO | Offset بارگذاری شد: 6ac1434aa0864cb13305a682
+2026-10-03 21:33:53,690 | INFO | دیتابیس آماده شد.
+2026-10-03 21:33:53,691 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-03 21:33:53,886 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac1434aa0864cb13305a682
+2026-10-03 22:11:17,381 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-03 22:13:48,062 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-03 22:14:16,166 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-03 22:19:01,792 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-03 22:25:17,132 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-03 22:41:50,210 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-03 22:41:57,205 | INFO | Offset بارگذاری شد: 6ac1536c3c5aac59dd3886c6
+2026-10-03 22:41:57,206 | INFO | دیتابیس آماده شد.
+2026-10-03 22:41:57,206 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-03 22:41:57,399 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac1536c3c5aac59dd3886c6
+2026-10-03 22:55:08,490 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-03 22:55:12,861 | INFO | Offset بارگذاری شد: 6ac156860f0a00b338086834
+2026-10-03 22:55:12,863 | INFO | دیتابیس آماده شد.
+2026-10-03 22:55:12,863 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-03 22:55:13,048 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac156860f0a00b338086834
+2026-10-03 23:19:27,090 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 09:11:38,570 | INFO | Offset بارگذاری شد: 6ac15c81579fbe0ac0c69910
+2026-10-04 09:11:38,571 | INFO | دیتابیس آماده شد.
+2026-10-04 09:11:38,573 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-04 09:11:38,803 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac1c09d221bd96742c9c8ad
+2026-10-04 09:52:02,439 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 09:59:38,292 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 10:00:36,424 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 10:06:15,916 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 10:33:30,933 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 11:23:07,156 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 11:47:56,511 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 12:20:45,820 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 12:28:02,060 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 13:09:54,506 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 13:33:29,538 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 15:36:29,961 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:08:48,520 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:20:13,795 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:41:08,592 | INFO | Offset بارگذاری شد: 6ac264faa3dffdab500cc90b
+2026-10-04 18:41:08,594 | INFO | دیتابیس آماده شد.
+2026-10-04 18:41:08,594 | INFO | 🌱 ربات Grow Garden شروع شد | ساخته شده توسط @silent_vision
+2026-10-04 18:41:09,849 | INFO | اولین دریافت آپدیت انجام شد. offset فعلی: 6ac264faa3dffdab500cc90b
+2026-10-04 18:41:09,909 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:10,778 | WARNING | API getUpdates تلاش 2: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:12,449 | WARNING | API getUpdates تلاش 3: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:18,512 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:19,366 | WARNING | API getUpdates تلاش 2: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:21,311 | WARNING | API getUpdates تلاش 3: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:25,179 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:27,118 | WARNING | API getChat تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getChat
+2026-10-04 18:41:34,178 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:39,575 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:40,420 | WARNING | API getUpdates تلاش 2: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:49,192 | WARNING | API getChat تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getChat
+2026-10-04 18:41:52,881 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:41:57,527 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:42:09,108 | WARNING | API getUpdates تلاش 1: 502 Server Error: Bad Gateway for url: https://botapi.rubika.ir/v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates
+2026-10-04 18:44:56,316 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:45:08,191 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:46:57,761 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-04 18:58:46,582 | WARNING | API getUpdates تلاش 1: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates (Caused by NameResolutionError("HTTPSConnection(host='botapi.rubika.ir', port=443): Failed to resolve 'botapi.rubika.ir' ([Errno 11001] getaddrinfo failed)"))
+2026-10-04 18:58:47,385 | WARNING | API getUpdates تلاش 2: HTTPSConnectionPool(host='botapi.rubika.ir', port=443): Max retries exceeded with url: /v3/CFJHBC0MRHYDXQULQCLLOHPYEUKPSVSWGBGZLQHHKMPWZUOFSNXRDEZEIKHYSRDT/getUpdates (Caused by NameResolutionError("HTTPSConnection(host='botapi.rubika.ir', port=443): Failed to resolve 'botapi.rubika.ir' ([Errno 11001] getaddrinfo failed)"))
+2026-10-04 19:05:42,156 | WARNING | API getUpdates تلاش 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
